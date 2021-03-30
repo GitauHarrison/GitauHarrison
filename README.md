@@ -22,14 +22,18 @@ At the moment, I am a STEM instructor at [Tinker Education](http://tinkeredu.net
     * Artificial Inteligence and Machine Learning
     * Data Science
     * Cyber Security
-* Currently learning _JavaScript_ and _Postgresql_ database
 * Looking out for other developers who I can learn from
+
+### Currently Learning ...
+
+| Languages | Databases | Frameworks |
+|-----------|-----------|------------|
+| <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/postgresql%20-%23339933.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/flask-20232A?style=for-the-badge&logo=flask&logoColor=gray" /> 
+| <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" /> | <img src="https://img.shields.io/badge/sqlite-brown?style=for-the-badge&logo=sqlite&logoColor=orange" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
 
 ### Blog/Vlog/Writing
 
-* I run a [personal blog](https://gitauharrison-blog.herokuapp.com/) I created from Scratch using Python and Flask
-* I have a free class on [YouTube](https://www.youtube.com/channel/UCqgJYnYPX99euaH2eoXfGyw)
-
+<a href="https://gitauharrison-blog.herokuapp.com/"><img alt="Blogger" src="https://img.shields.io/badge/Personal Blog-orange?style=for-the-badge&logo=blogger&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCqgJYnYPX99euaH2eoXfGyw"><img alt="Youtube" src="https://img.shields.io/badge/Gitau Harrison%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 ### Interests
 
