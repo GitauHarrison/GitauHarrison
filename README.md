@@ -28,7 +28,7 @@ At the moment, I am a STEM instructor at [Tinker Education](http://tinkeredu.net
 
 | Languages | Databases | Frameworks |
 |-----------|-----------|------------|
-| <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/postgresql%20-%23339933.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/flask-20232A?style=for-the-badge&logo=flask&logoColor=gray" /> 
+| <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/postgresql%20-%23339933.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/flask-E3E3E3?style=for-the-badge&logo=flask&logoColor=gray" /> 
 | <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" /> | <img src="https://img.shields.io/badge/sqlite-brown?style=for-the-badge&logo=sqlite&logoColor=orange" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
 
 ### Blog/Vlog/Writing
