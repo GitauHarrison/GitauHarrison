@@ -1,6 +1,6 @@
 Hi, there! :wave: - I'm Gitau Harrison
 
-<a href="https://stackexchange.com/users/8307874"><img src="https://stackexchange.com/users/flair/8307874.png?theme=dark" width="208" height="58" alt="profile for Gitau Harrison on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Gitau Harrison on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/6244201/gitau-harrison"><img src="https://stackexchange.com/users/flair/8307874.png?theme=dark" width="208" height="58" alt="profile for Gitau Harrison on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Gitau Harrison on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 At the moment, I am a STEM instructor at [Tinker Education](http://tinkeredu.net/), a leading STEM learning centre for kids in Nairobi, Kenya. I actively :boom: began coding after a visit to Gangnam-gu, Seoul :kr: on a business trip to [EMCAST](http://emcast.com/).
 
