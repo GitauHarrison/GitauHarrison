@@ -9,7 +9,7 @@ At the moment, I am a STEM instructor at [Tinker Education](http://tinkeredu.net
 <a href="https://github.com/GitauHarrison">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitauHarrison&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=404040" />
 </a>
-<a href="https://github.com/BrianLusina/brianlusina">
+<a href="https://github.com/GitauHarrison/GitauHarrison">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GitauHarrison&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=404040" alt="Gitau Harrison's GitHub Stats" />
 </a>
 
