@@ -6,7 +6,7 @@ At the moment, I am a STEM instructor at [Tinker Education](http://tinkeredu.net
 
 ### &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/GitauHarrison">
+<a href="https://github.com/GitauHarrison/GitauHarrison">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitauHarrison&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=404040" />
 </a>
 <a href="https://github.com/GitauHarrison/GitauHarrison">
