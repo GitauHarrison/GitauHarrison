@@ -28,10 +28,10 @@ At the moment, I am a STEM instructor at [Tinker Education](http://tinkeredu.net
 
 ## Currently Learning ...
 
-| Languages | Databases | Frameworks |
-|-----------|-----------|------------|
-| <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/postgresql%20-%23339933.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/flask-E3E3E3?style=for-the-badge&logo=flask&logoColor=gray" /> 
-| <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" /> | <img src="https://img.shields.io/badge/sqlite-brown?style=for-the-badge&logo=sqlite&logoColor=orange" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
+| Languages | Databases | Frameworks | Deployment | Version Control |
+|-----------|-----------|------------|------------|------------|
+| <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/postgresql%20-%23339933.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/flask-E3E3E3?style=for-the-badge&logo=flask&logoColor=gray" /> | <img src="https://img.shields.io/badge/linode-32732A?style=for-the-badge&logo=linode&logoColor=Green" /> | <img src="https://img.shields.io/badge/git-F44336?style=for-the-badge&logo=git&logoColor=white" />
+| <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" /> | <img src="https://img.shields.io/badge/sqlite-brown?style=for-the-badge&logo=sqlite&logoColor=orange" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Docker-1B8CFF?style=for-the-badge&logo=docker&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" />
 
 
 ## Currently Working on ...
