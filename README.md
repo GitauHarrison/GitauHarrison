@@ -46,7 +46,11 @@ Coming soon ...
 
 ## Blog/Writing/Vlog
 
-<a href="https://www.gitauharrison.com/"><img alt="Blogger" src="https://img.shields.io/badge/Personal Blog-orange?style=for-the-badge&logo=gitauharrison&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCqgJYnYPX99euaH2eoXfGyw"><img alt="Youtube" src="https://img.shields.io/badge/Gitau Harrison%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://www.gitauharrison.com/"><img alt="Blogger" src="https://img.shields.io/badge/Personal Blog-marron?style=for-the-badge&logo=gitauharrison&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCqgJYnYPX99euaH2eoXfGyw"><img alt="Youtube" src="https://img.shields.io/badge/Gitau Harrison%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+
+## Social
+
+<a href="https://twitter.com/GitauHarrison1"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.strava.com/athletes/gitau_harrison"><img src="https://img.shields.io/badge/Strava-orange?style=for-the-badge&logo=strava&logoColor=white" /></a>
 
 ## Interests
 
