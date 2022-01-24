@@ -46,7 +46,7 @@ Coming soon ...
 
 ## Blog/Writing/Vlog
 
-<a href="https://www.gitauharrison.com/"><img alt="Blogger" src="https://img.shields.io/badge/Personal Blog-maroon?style=for-the-badge&logo=gitauharrison&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCqgJYnYPX99euaH2eoXfGyw"><img alt="Youtube" src="https://img.shields.io/badge/Gitau Harrison%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://www.gitauharrison.com/"><img alt="Blogger" src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=gitauharrison&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCqgJYnYPX99euaH2eoXfGyw"><img alt="Youtube" src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 ## Social
 
