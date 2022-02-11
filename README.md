@@ -36,13 +36,13 @@ At the moment, I am a STEM instructor at [Tinker Education](http://tinkeredu.net
 
 ## Currently Working on ...
 
-* [eLearning Application](https://github.com/GitauHarrison/somasoma-eLearning-app)
+* [somaSoma eLearning Application](https://github.com/GitauHarrison/somasoma-eLearning-app)
 
 Coming soon ...
 
-* [Video Conferencing App](https://github.com/GitauHarrison/video-conferencing-app-using-flask-and-twilio)
-* [Live Chat App](https://github.com/GitauHarrison/bolder-chat-app)
-* [Work Management App](https://github.com/GitauHarrison/tinker-education-work-management-system)
+* [onana Video Conferencing App](https://github.com/GitauHarrison/video-conferencing-app-using-flask-and-twilio)
+* [bolder Live Chat App](https://github.com/GitauHarrison/bolder-chat-app)
+* [Tinker Work Management App](https://github.com/GitauHarrison/tinker-education-work-management-system)
 
 ## Blog/Writing/Vlog
 
