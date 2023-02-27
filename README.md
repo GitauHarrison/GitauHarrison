@@ -4,18 +4,10 @@ I'm Gitau Harrison.
 
 <a href="https://stackoverflow.com/users/6244201/gitau-harrison"><img src="https://stackexchange.com/users/flair/8307874.png?theme=dark" width="208" height="58" alt="profile for Gitau Harrison on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Gitau Harrison on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-At the moment, I am a STEM instructor at [Tinker Education](http://tinkeredu.net/), a leading STEM learning centre for kids in Nairobi, Kenya. I actively :boom: began coding after a visit to Gangnam-gu, Seoul :kr: on a business trip to [EMCAST](http://emcast.com/).
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/GitauHarrison/GitauHarrison">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitauHarrison&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=404040" />
-</a>
-<a href="https://github.com/GitauHarrison/GitauHarrison">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GitauHarrison&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=404040" alt="Gitau Harrison's GitHub Stats" />
-</a>
 
 ## Goals
+
+The point here is to help create business solutions. 
 
 * I am working with Python and Flask to create web applications
 * I am looking forward to using Python for:
@@ -25,6 +17,15 @@ At the moment, I am a STEM instructor at [Tinker Education](http://tinkeredu.net
     * Data Science
     * Cyber Security
 * Looking out for other developers who I can learn from
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/GitauHarrison/GitauHarrison">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitauHarrison&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=404040" />
+</a>
+<a href="https://github.com/GitauHarrison/GitauHarrison">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GitauHarrison&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=404040" alt="Gitau Harrison's GitHub Stats" />
+</a>
 
 ## Currently Learning ...
 
