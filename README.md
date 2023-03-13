@@ -16,7 +16,7 @@ The point here is to help create business solutions.
     * Artificial Inteligence and Machine Learning
     * Data Science
     * Cyber Security
-* Looking out for other developers who I can learn from
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -37,13 +37,17 @@ The point here is to help create business solutions.
 
 ## Currently Working on ...
 
-* [somaSoma eLearning Application](https://github.com/GitauHarrison/somasoma-eLearning-app)
+* Redesigning [my personal blog (private)](https://www.gitauharrison.com/)
+* Redesigning [Mbeca Ciaku](https://github.com/GitauHarrison/mbeca-ciaku)
+* [maliMALI Marketplace](https://github.com/GitauHarrison/maliMALI-eCommerce-app-using-flask) (sample eCommerce app)
+* Sample Sacco App (private)
+* [Roselyn Homes](https://github.com/GitauHarrison/roselyn-homes) (Sample Property App)
 
 Coming soon ...
 
 * [onana Video Conferencing App](https://github.com/GitauHarrison/video-conferencing-app-using-flask-and-twilio)
 * [bolder Live Chat App](https://github.com/GitauHarrison/bolder-chat-app)
-* [Tinker Work Management App](https://github.com/GitauHarrison/tinker-education-work-management-system)
+
 
 ## Blog/Writing/Vlog
 
